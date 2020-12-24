@@ -4,4 +4,4 @@ This repository accomplishes the algorithm/function mentioned in [this paper](ht
 
 The general schematic is illustrated in the following: 
 
-
+![outline](https://raw.githubusercontent.com/StevenZhang0116/SparseIdentification/main/theoutline.png)
